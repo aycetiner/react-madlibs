@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  text-align: center;
+  display:block;
+  margin: 10px 0;
+}
+
+label {
+  text-align: center;
+  display:block;
+
+}
+
+
